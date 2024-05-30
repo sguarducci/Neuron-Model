@@ -1,6 +1,4 @@
 %Stephen Guarducci
-%MATH 430-001
-%UCID: 31221931
 %Project
 %Synchronization of Strongly Coupled Excitatory Neurons: Relating Network Behavior to Biophysics
 
